@@ -1,2 +1,2 @@
-# SplamJunk
+# scram reborn banlist
 ur banned
