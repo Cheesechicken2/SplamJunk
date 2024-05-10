@@ -1,2 +1,2 @@
 # scram reborn banlist
-ur banned
+github for holding scram reborn's banlist and other scram reborn junk
